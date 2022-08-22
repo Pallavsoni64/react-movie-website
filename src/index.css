@@ -116,7 +116,7 @@ input {
 }
 
 .movie-card {
-  min-width: 30rem;
+  min-width: 29rem;
   width: 50vw;
   /* padding: 1rem; */
   background-color: var(--bg-clr);
